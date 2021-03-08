@@ -926,6 +926,13 @@ section {
 --------------------------------*/
 #portfolio {
   padding: 60px 0;
+  
+  background: url("../img/montaña_vector.jpg") center top no-repeat fixed;
+}
+
+.galeria{
+  
+  background: url("../img/textura_madera.jpg") center top no-repeat fixed;
 }
 
 #portfolio #portfolio-flters {
@@ -1656,4 +1663,11 @@ section {
   color: #ddd;
 }
 
-
+footer .logo img{
+  width: 200px;
+  height: 80px;
+  
+  position: relative;
+  bottom: 34px;
+  float: left;
+    }
