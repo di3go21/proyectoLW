@@ -764,7 +764,8 @@ section {
 /* Services Section
 --------------------------------*/
 #services {
-  background: #fff;
+  /* background: #fff; */
+  background: url("./../img/textura_servicios.jpg") center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 40px 0;
 }
@@ -1654,3 +1655,5 @@ section {
   font-size: 13px;
   color: #ddd;
 }
+
+
